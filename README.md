@@ -22,7 +22,7 @@ Olá! meu nome é Alana  tenho experiêcia na cozinha tanto em casa quanto numa 
 ---
 
 ## Receitas Brasileiras em Destaque
-### 1. Feijoada (Black Bean Stew)
+### 1. Feijoada 
 Ensopado tradicional brasileiro com feijão preto, carne de porco e carne bovina, servido com arroz e as vezes fatias de laranja.
 **Ingredientes:**
 - Feijão preto, paleta de porco, linguiça, carne bovina, cebola, alho, louro, laranja, arroz
