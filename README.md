@@ -1,4 +1,4 @@
-## Alana
+## Alana Renó
 Um pouco sobre mim
 **`🍽️ Meu portifólio: Cozinheira brasileira Alana.`**
 
