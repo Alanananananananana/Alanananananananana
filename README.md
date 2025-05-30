@@ -1,6 +1,6 @@
 ## Alana
 Um pouco sobre mim
-# 🍽️ Meu portifólio: Cozinheira brasileira Alana.
+**`🍽️ Meu portifólio: Cozinheira brasileira Alana.`**
 
 Bem vindo ao meu portiólio culinário! Eu sou apaixonada pelo rico sabor e alegria que a culinária brasileira nos proporciona, tenho anos de mão na massa cozinhando pratos modernos e tradicionais. Aqui, você vai encontrar minhas receitas favoritas e suas fotos, contando um pouquinho da minha história.
 
@@ -57,9 +57,10 @@ As bolinhas de chocolate preferidas do Brasil, perfeitas para festas.
 
 ## 📷 Galeria de comida
 
-![Feijoada](images/feijoada.jpg)
+![Feijoada]()
 ![Pão de Queijo](images/pao-de-queijo.jpg)
-![Brigadeiro](images/brigadeiro.jpg)
+![Brig![projeto-1](https://github.com/user-attachments/assets/81292280-06c4-4d55-900b-7fabc4cf28b4)
+adeiro](images/brigadeiro.jpg)
 
 *Substitua as imagens acima pelas suas, enviando-as para a pasta `images/`.*
 
