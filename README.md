@@ -1,14 +1,14 @@
 ## Alana
 Um pouco sobre mim
-# 🍽️ Cooking Portfolio: cozinheira brasileira Alana.
+# 🍽️ Meu portifólio: Cozinheira brasileira Alana.
 
-Bem vindo ao meu portiólio culinário! Eu sou apaixonada pelo rico sabor ealegria que a culinãria brasileira nos proporciona, tenho anos de mão na massa cozinhando pratos modernos e tradicionais. Aqui, você vai encontrar minhas receitas favoritas e suas fotos, contando um pouquinho da minha história.
+Bem vindo ao meu portiólio culinário! Eu sou apaixonada pelo rico sabor e alegria que a culinária brasileira nos proporciona, tenho anos de mão na massa cozinhando pratos modernos e tradicionais. Aqui, você vai encontrar minhas receitas favoritas e suas fotos, contando um pouquinho da minha história.
 
 ---
 
 ## 👨‍🍳 Sobre mim
 
-Olá! meu nome é Alana,  tenho experiêcia ena cozinha tanto em casa quanto numa cozinha profissional.De reuniões familiares festivas a jantares aconchegantes durante a semana, adoro explorar a diversidade da herança culinária brasileira, de clássicos salgados a doces.
+Olá! meu nome é Alana  tenho experiêcia na cozinha tanto em casa quanto numa cozinha profissional, de reuniões familiares festivas a jantares aconchegantes durante a semana, adoro explorar a diversidade da herança culinária brasileira, de clássicos salgados a doces.
 
 ---
 
@@ -21,7 +21,7 @@ Olá! meu nome é Alana,  tenho experiêcia ena cozinha tanto em casa quanto num
 
 ---
 
-## 🇧🇷 Receitas Brasileiras em Destaque
+## Receitas Brasileiras em Destaque
 ### 1. Feijoada (Black Bean Stew)
 Ensopado tradicional brasileiro com feijão preto, carne de porco e carne bovina, servido com arroz e as vezes fatias de laranja.
 **Ingredientes:**
@@ -68,8 +68,8 @@ As bolinhas de chocolate preferidas do Brasil, perfeitas para festas.
 ## 📩 Contato
 
 Quer conversar sobre comida, colaborar ou solicitar uma receita?  
-[Seu e-mail] | [Perfil do GitHub](https://github.com/Alanananananananana)
+ Aqui esta me email!!! 00001099789758SP@al.educacao.sp.gov.br
 
 ---
 
-**Obrigado por visitar meu portfólio! Viva a culinária brasileira! 🇧🇷**
+**Obrigado por visitar meu portfólio! Viva a culinária brasileira! **
