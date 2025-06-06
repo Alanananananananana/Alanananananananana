@@ -2,7 +2,7 @@
 Um pouco sobre mim
 **`🍽️ Meu portifólio: Cozinheira brasileira Alana.`**
 
-Bem vindo ao meu portiólio culinário! Eu sou apaixonada pelo rico sabor e alegria que a culinária brasileira nos proporciona, tenho anos de mão na massa cozinhando pratos modernos e tradicionais. Aqui, você vai encontrar minhas receitas favoritas e suas fotos, contando um pouquinho da minha história.
+Bem vindo ao meu portiólio culinário! Eu sou apaixonada pelo rico sabor e alegria que a culinária brasileira nos proporciona, tenho anos de mão na massa cozinhando pratos modernos e tradicionais. Aqui, você vai encontrar minhas receitas favoritas, contando um pouquinho da minha história.
 
 ---
 
@@ -52,17 +52,6 @@ As bolinhas de chocolate preferidas do Brasil, perfeitas para festas.
 **Modo de Preparo:** 
 1. Cozinhe o leite condensado, a manteiga e o cacau até engrossar.
 2. Deixe esfriar, enrole em bolinhas e polvilhe com granulado.
-
----
-
-## 📷 Galeria de comida
-
-![Feijoada]()
-![Pão de Queijo](images/pao-de-queijo.jpg)
-![Brig![projeto-1](https://github.com/user-attachments/assets/81292280-06c4-4d55-900b-7fabc4cf28b4)
-adeiro](images/brigadeiro.jpg)
-
-*Substitua as imagens acima pelas suas, enviando-as para a pasta `images/`.*
 
 ---
 
